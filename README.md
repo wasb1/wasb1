@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=wasb1&animation=false&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)" />
+      <img src="https://github.r2v.ch/codewars?user=wasb1&animation=false&top_languages=true" />
     </a>
 </p>
